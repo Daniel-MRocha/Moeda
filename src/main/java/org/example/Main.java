@@ -15,6 +15,7 @@ public class Main {
 
         System.out.println("-----------------------------------------");
         System.out.println("---Apenas centavos separados por ponto---");
+        System.out.println("-----------------------------------------");
 
         try{
         System.out.print("Digite o primeiro valor: ");
